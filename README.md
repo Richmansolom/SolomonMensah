@@ -1,2 +1,5 @@
-# SolomonMensah
-About Me
+- 👋 Hi, I’m Solomon Mensah
+-  I’m a football fan and in US is called soccer mostly like to play Fifa Online.
+- I am fluent in mySQL, C++, Python, swift, React.js, Xampp and Linux. I am learning Cybersecurity to get certified
+- 📫 How to reach me solomonmensa75@gmail.com
+- SWE, Cybersecurity and Cloud Engineering enthusiast
